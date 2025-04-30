@@ -30,7 +30,6 @@ public class DonationReceiptWidget extends Composite {
 		this.tran= tran;
 		
 		this.jke= jkeBanking;
-
 		
 	}
 
