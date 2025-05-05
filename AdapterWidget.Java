@@ -4,7 +4,6 @@ censed Materials - Property of IBM
  *******************************************************************************/
 
 package com.jke.ui;
-
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.SelectionAdapter;
 import org.eclipse.swt.events.SelectionEvent;
