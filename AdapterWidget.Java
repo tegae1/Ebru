@@ -2,7 +2,6 @@ censed Materials - Property of IBM
  * (c) Copyright IBM Corporation 2010, 2011. All Rights Reserved. 
  *************
  *******************************************************************************/
-
 package com.jke.ui;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.SelectionAdapter;
