@@ -11,7 +11,7 @@ import org.eclipse.swt.layout.GridLayout;
 import org.eclipse.swt.widgets.Button;
 import org.eclipse.swt.widgets.Composite;
 import com.jke.beans.TransactionBean;
-sssss
+
 public class DonationReceiptWidget extends Composite {
 	private TransactionBean tran;
 	private JKEBanking jke;
